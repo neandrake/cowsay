@@ -1,0 +1,15 @@
+## From GitHub user talishte: https://github.com/talishte/cowsay/commit/9a18f2c48d4c74aa79cd62e1d8e8b4acde2901b4
+##
+## Snort
+## Copyright (C) Martin Roesch & The Snort Team: http://www.snort.org/snort/snort-team
+## Copyright (C) 2014 Cisco and/or its affiliates. All rights reserved.
+## Copyright (C) 1998-2013 Sourcefire, Inc., et al.
+## 
+##
+$the_cow = <<EOC;
+   $thoughts
+    $thoughts
+   ,,_     
+  o"  )~   
+   ''''    
+EOC

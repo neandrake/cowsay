@@ -1,0 +1,22 @@
+## From GitHub user rlangford: https://github.com/rlangford/cowsay/commit/b58cf56556135bd1dd52158b89c4248f4405786a
+##
+## It's a Camel
+##
+$the_cow = <<EOC;
+   $thoughts
+    $thoughts
+           _
+       .--' |
+      /___^ |     .--.
+          ) |    /    \\
+         /  |  /`      '.
+        |   '-'    /     \\
+        \\         |      |\\
+         \\    /   \\      /\\|
+          \\  /'----`\\   /
+          |||       \\\\ |
+          ((|        ((|
+          |||        |||
+         //_(       //_(                  
+EOC
+

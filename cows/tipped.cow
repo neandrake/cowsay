@@ -1,0 +1,10 @@
+## From GitHub user caryp-contrib: https://github.com/caryp-contrib/cowsay/commit/af0ed90ff9576d24b55705bb454c8ec440e16db2
+$the_cow = <<"EOC";
+  $thoughts         ||       ||
+    $thoughts    __ ||-----mm||         
+      $thoughts (  )/_________)/\/ 
+        ($eyes)/ 
+        v--v 
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
+EOC
+

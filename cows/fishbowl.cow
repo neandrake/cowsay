@@ -1,0 +1,15 @@
+## From GitHub user nmnja: https://github.com/nmnja/cowsay/commit/21907c176e35170e38209bd984676cc6c81e12a5
+##
+## Fish in a bowl
+##
+$the_cow = <<EOC;
+    $thoughts
+     $thoughts
+   )............(  
+  /    ___/|     \\ 
+ |    /o    \\/|   |
+ |    \\_____/\\|   |
+  \\              / 
+   ')__________('  
+EOC
+

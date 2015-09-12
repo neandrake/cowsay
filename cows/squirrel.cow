@@ -1,0 +1,15 @@
+## From GitHub user schacon: https://github.com/schacon/cowsay/commit/b67eda47925e8dee3a3fd4b513127a3f4ae15341
+$the_cow = <<EOC;
+  $thoughts
+     $thoughts
+                  _ _
+       | \__/|  .~    ~.
+       /$eyes `./      .'
+      {o__,   \    {
+        / .  . )    \
+        `-` '-' \    }
+       .(   _(   )_.'
+      '---.~_ _ _|
+                                                     
+EOC
+
